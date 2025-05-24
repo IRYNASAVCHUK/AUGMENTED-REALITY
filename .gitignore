@@ -1,0 +1,75 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Icon must end with two \r
+Icon
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+ExportedObj/
+
+# Crash reports
+sysinfo.txt
+
+# Builds and packages
+*.apk
+*.aab
+*.exe
+*.app
+*.ipa
+*.msi
+*.zip
+*.unitypackage
+
+# IDEs and editors
+
+# Visual Studio / MonoDevelop / Rider
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.sln.iml
+.consulo/
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Visual Studio for Mac
+*.pidb.meta
+*.userprefs
+
+# Crashlytics
+crashlytics-build.properties
+
+# Asset meta data should be ignored only when corresponding asset is ignored
+!/[Aa]ssets/**/*.meta
+
+# Vuforia SDK package
+LAB_3/Packages/com.ptc.vuforia.engine-*.tgz
